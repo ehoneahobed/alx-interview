@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-"""
-alx interview prep question
-"""
-
+"""A script to determine pascal's triangle for any number"""
 
 def pascal_triangle(n):
     """
