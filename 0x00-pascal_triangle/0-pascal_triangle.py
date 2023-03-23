@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """A script to determine pascal's triangle for any number"""
 
+
 def pascal_triangle(n):
     """Returns a list of list representing the
     pascal's triangle for the number n
