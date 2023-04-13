@@ -43,11 +43,11 @@ try:
             if status_code in status_codes_dict.keys():
                 status_codes_dict[status_code] += 1
 
-                # update total size
-                total_size += file_size
+            # update total size
+            total_size += file_size
 
-                # update count of lines
-                count += 1
+            # update count of lines
+            count += 1
 
         if count == 10:
             count = 0  # reset count
