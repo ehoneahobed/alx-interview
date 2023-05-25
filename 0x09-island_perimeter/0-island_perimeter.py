@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Island Perimeter - ALX Interview"""
 
 def check_val(x):
         """_summary_
